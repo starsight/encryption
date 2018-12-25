@@ -1,1 +1,1 @@
-Based on OpenSSL AES algorithm create for encrypt soft-PLC obj file.
+Based on OpenSSL AES algorithm create to encrypt soft-PLC obj file.
