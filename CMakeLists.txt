@@ -1,0 +1,7 @@
+# This file is in root dir to project
+# NOTE: DO NOT use ${PROJECT_BINARY_DIR}
+#       DO NOT compile symtable.cc alone!
+PROJECT(ENCRYPTION)
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR})
+ADD_SUBDIRECTORY(src)
